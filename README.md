@@ -1,1 +1,2 @@
-<h1> Coloquio-IMA </h1>
+<h1 style='background-color:chocolate;color:white;padding:30px'> Coloquio-IMA </h1>
+
